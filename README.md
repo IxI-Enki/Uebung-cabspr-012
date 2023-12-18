@@ -1,10 +1,22 @@
 # Uebung-cabspr-012 -- Zahlenstatistik
 
+- [Angabe.pdf](https://github.com/IxI-Enki/Uebung-cabspr-012/blob/main/BSP10.pdf)
+
+---
+
+- ### [Lösung.c ](https://github.com/IxI-Enki/Uebung-cabspr-012/blob/main/Zahlenstatistik.c) - sourcecode  
+- ### [Lösung.exe ](https://github.com/IxI-Enki/Uebung-cabspr-012/blob/main/Zahlenstatistik.exe) - application  
+
+<sub><sup>
+---
+</sup></sub>
+
 ## Console:
 | *Meine Ausgabe:* |
 | :-------- |
 | ![ausgabe](https://github.com/IxI-Enki/Uebung-cabspr-012/assets/138018029/d5da2f32-3dc0-48e8-92ae-cdf61fe4490a) |
 
+---
 
 ```c
 #include <stdio.h>
